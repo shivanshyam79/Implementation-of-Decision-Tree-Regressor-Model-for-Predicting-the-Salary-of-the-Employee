@@ -59,7 +59,7 @@ dt.predict([[5,6]])
 ![328637983-fb7aef98-95e8-4983-a54c-a6c7d63beca9](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/151513860/0caccb4a-507c-4799-a797-933dd8f22ad8)
 ### MSE:
 ![328638036-d858df6f-f905-4243-848f-04695662f381](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/151513860/7a6f9092-27ff-4689-aade-145ea6206eb3)
-r2:
+### r2:
 ![328638154-40f6226c-8dcf-4374-a342-7d566ccc3ee4](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/151513860/71b89bb0-3747-49ae-b264-a3df7a92b737)
 ### DATA PREDICTION:
 ![328638214-5fa7684c-e677-42d2-b9c6-dc14ddfeab2d](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/151513860/5aa60521-224f-4832-aa7f-8657c8a9bd8b)
